@@ -33,6 +33,14 @@ except ImportError:
     config = None
 
 try:
+    import pymupdf
+except ImportError:
+    try:
+        import fitz as pymupdf
+    except ImportError:
+        pymupdf = None
+
+try:
     from pypdf import PdfReader, PdfWriter
 except ImportError:
     sys.exit("Error: pypdf not found. Run: pip install pypdf")
@@ -49,20 +57,25 @@ DEFAULT_MAX_WORKERS = 5
 
 
 SYSTEM_PROMPT = """You are an expert AI evaluator transcribing scanned handwritten training feedback forms.
-Each form has multiple day blocks. Each day has 1 to 3 topic/session blocks.
-Each topic block has exactly 5 criteria rows:
-1. Course Content (or Course Contenet)
-2. Structure & Flow
-3. Time Management
-4. Faculty Delivery
-5. Faculty Participants Interaction
+You will receive high-resolution images of each feedback form page.
 
-Each row is a printed 10-9-8-7-6-5-4-3-2-1 scale where the participant circled, ticked, or marked ONE number.
-Read the hand-drawn mark accurately (circles, checkmarks, ticks, underlines, or cross marks) and extract the circled integer (1-10).
+CRITICAL INSTRUCTION FOR ACCURATE MARK DETECTION:
+Each row of the table has pre-printed numbers: 10 - 9 - 8 - 7 - 6 - 5 - 4 - 3 - 2 - 1.
+The participant marked their rating using a blue or black pen:
+- A checkmark / tick mark (✓) drawn over or inside the number box
+- A circle or oval drawn around the number
+- A curved loop, slash, cross, or underline on the number
+
+DO NOT DEFAULT TO 10. Look at each row individually and identify the EXACT column where the pen stroke is located:
+- If the tick/circle is on 9, output 9.
+- If the tick/circle is on 8, output 8.
+- If the tick/circle is on 7, output 7.
+- If the tick/circle is on 10, output 10.
+Participants frequently give varied ratings (e.g. 10, 9, 8, 9, 10, 9, 8). Inspect the exact column position of the pen stroke for every criterion row.
 
 Return ONLY valid JSON matching this exact schema:
 {
-  "staff_no": "<string, participant staff no printed on the form>",
+  "staff_no": "<string, participant staff no as printed/written on form>",
   "name": "<string, participant name>",
   "sbu_csg": "<string or null>",
   "department": "<string or null>",
@@ -71,7 +84,7 @@ Return ONLY valid JSON matching this exact schema:
       "day": <integer day number, 1-based>,
       "topics": [
         {
-          "topic_index": <integer, 1-based position of topic within this day>,
+          "topic_index": <integer, 1-based position of topic block within this day>,
           "topic_name": "<topic title as printed>",
           "criteria": {
             "Course Content": <integer 1-10>,
@@ -95,9 +108,26 @@ Return ONLY valid JSON matching this exact schema:
 Rules:
 - Capture all topics and criteria rows present on the scanned pages.
 - If a row is left blank, use null.
-- Extract numbers exactly as circled (1-10).
+- Extract numbers (1-10) strictly based on the pen mark location.
 - Preserve exact staff_no as written (including letters/numbers).
 """
+
+
+def render_pdf_pages_to_images(pdf_path_or_reader, page_indices, dpi=200):
+    """
+    Renders specified PDF pages to high-resolution JPEG image bytes for crystal-clear vision AI OCR.
+    """
+    images = []
+    if isinstance(pdf_path_or_reader, str) and os.path.exists(pdf_path_or_reader) and pymupdf:
+        doc = pymupdf.open(pdf_path_or_reader)
+        for idx in page_indices:
+            if idx < len(doc):
+                pix = doc[idx].get_pixmap(dpi=dpi)
+                images.append(pix.tobytes("jpeg"))
+    elif pymupdf:
+        # If reader was passed, try writing chunk or extracting
+        pass
+    return images
 
 
 def encode_pdf_chunk(reader: PdfReader, page_indices) -> bytes:
@@ -121,19 +151,29 @@ def extract_json(text: str):
     return json.loads(text)
 
 
-def call_gemini(client, pdf_bytes: bytes, chunk_label: str, model_name: str = DEFAULT_MODEL, max_retries=5):
+def call_gemini(client, payload, chunk_label: str, model_name: str = DEFAULT_MODEL, max_retries=5):
+    """
+    payload can be either a list of image bytes or raw pdf bytes.
+    """
     current_model = model_name or DEFAULT_MODEL
     if current_model in ("gemini-2.5-flash", "gemini-2.0-flash", "gemini-1.5-flash"):
         current_model = DEFAULT_MODEL
+
+    # Prepare multimodal content parts
+    contents = []
+    if isinstance(payload, list):
+        for img_bytes in payload:
+            contents.append(types.Part.from_bytes(data=img_bytes, mime_type="image/jpeg"))
+    elif isinstance(payload, bytes):
+        contents.append(types.Part.from_bytes(data=payload, mime_type="application/pdf"))
+
+    contents.append("Transcribe all handwritten ratings (circles, tick marks ✓, and checkmarks) and suggestions into JSON.")
 
     for attempt in range(1, max_retries + 1):
         try:
             resp = client.models.generate_content(
                 model=current_model,
-                contents=[
-                    types.Part.from_bytes(data=pdf_bytes, mime_type="application/pdf"),
-                    "Transcribe all handwritten circled ratings and suggestions from this participant feedback form into JSON.",
-                ],
+                contents=contents,
                 config=types.GenerateContentConfig(
                     system_instruction=SYSTEM_PROMPT,
                     temperature=0,

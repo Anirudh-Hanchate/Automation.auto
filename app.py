@@ -153,18 +153,19 @@ async def process_feedback_stream(
                     event_q = queue.Queue()
                     extracted_records = [None] * total_chunks
 
-                    # Pre-encode all chunks in memory for fast parallel dispatch
+                    # Pre-render high-resolution images or encode PDF chunks for fast parallel dispatch
                     encoded_chunks = []
                     for idx, start in enumerate(chunk_starts):
                         idxs = list(range(start, min(start + step, n_pages)))
                         label = f"Participant {idx+1}/{total_chunks} (pages {idxs[0]+1}-{idxs[-1]+1})"
-                        chunk_pdf = gemini_extractor.encode_pdf_chunk(reader, idxs)
-                        encoded_chunks.append((idx, chunk_pdf, label))
+                        imgs = gemini_extractor.render_pdf_pages_to_images(str(pdf_path), idxs, dpi=200)
+                        payload = imgs if imgs else gemini_extractor.encode_pdf_chunk(reader, idxs)
+                        encoded_chunks.append((idx, payload, label))
 
                     def _gemini_worker(item):
-                        c_idx, pdf_data, lbl = item
+                        c_idx, payload_data, lbl = item
                         try:
-                            rec = gemini_extractor.call_gemini(client, pdf_data, lbl, m_name)
+                            rec = gemini_extractor.call_gemini(client, payload_data, lbl, m_name)
                             extracted_records[c_idx] = rec
                             event_q.put(("success", c_idx, rec, lbl))
                         except Exception as exc:
