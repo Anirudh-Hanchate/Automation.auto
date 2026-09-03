@@ -25,6 +25,8 @@ from openpyxl.utils import get_column_letter
 @dataclass
 class CriteriaCell:
     day: str
+    day_index: int
+    topic_index: int
     topic: str
     criteria: str
     row: int
@@ -63,9 +65,12 @@ def _norm(s: str) -> str:
     return (
         s.lower()
         .replace("contenet", "content")
+        .replace("impresion", "impression")
         .replace("&", "and")
         .replace("-", "")
         .replace("_", "")
+        .replace("'", "")
+        .replace('"', "")
         .replace(" ", "")
         .replace("\n", "")
         .replace("\r", "")
@@ -121,7 +126,10 @@ def build_sheet_map(ws) -> SheetMap:
     # 3. Walk down col A/B/C from just below the header to build day/topic/criteria rows
     criteria_rows = []
     overall_rows = []
-    current_day, current_topic = None, None
+    current_day = None
+    current_topic = None
+    current_day_index = 0
+    current_topic_index = 0
     is_overall = False
     suggestion1_row = suggestion2_row = None
     r = values_row + 1
@@ -136,10 +144,18 @@ def build_sheet_map(ws) -> SheetMap:
             if "OVERALL" in a.upper():
                 is_overall = True
                 current_day = "OVERALL"
+                current_day_index = 999
                 current_topic = "OVERALL"
+                current_topic_index = 1
             else:
                 is_overall = False
                 current_day = a.split("\n")[0].strip()
+                day_match = re.search(r"\d+", current_day)
+                if day_match:
+                    current_day_index = int(day_match.group())
+                else:
+                    current_day_index += 1
+                current_topic_index = 0
 
         if b:
             b_upper = b.upper()
@@ -148,6 +164,7 @@ def build_sheet_map(ws) -> SheetMap:
             elif "SUGGESTION 2" in b_upper or "SUGGESTION2" in b_upper:
                 suggestion2_row = r
             elif not is_overall:
+                current_topic_index += 1
                 current_topic = b.split("\n")[0].strip()
 
         if cc:
@@ -157,8 +174,15 @@ def build_sheet_map(ws) -> SheetMap:
             if not is_scale_label:
                 if is_overall or (current_day and "OVERALL" in current_day.upper()):
                     overall_rows.append(OverallCell(cc, r))
-                elif current_day and current_topic and not (b and "SUGGESTION" in b.upper()):
-                    criteria_rows.append(CriteriaCell(current_day, current_topic, cc, r))
+                elif current_day and not (b and "SUGGESTION" in b.upper()):
+                    criteria_rows.append(CriteriaCell(
+                        day=current_day,
+                        day_index=current_day_index,
+                        topic_index=current_topic_index or 1,
+                        topic=current_topic or "",
+                        criteria=cc,
+                        row=r
+                    ))
 
         r += 1
 
@@ -176,48 +200,42 @@ def build_sheet_map(ws) -> SheetMap:
 
 def find_criteria_row(smap: SheetMap, day_index: int, topic_index: int, criteria_name: str) -> int:
     """
-    day_index: 1-based day number (1 = DAY 1)
-    topic_index: 1-based position of the topic block WITHIN that day (1 = first topic taught that day)
+    day_index: 1-based day number (1 = DAY 1, 6 = DAY-6)
+    topic_index: 1-based position of the topic block WITHIN that day
     criteria_name: e.g. 'Course Content' (matched case/space-insensitively, ignoring typos)
     """
-    day_rows = [cr for cr in smap.criteria_rows if _norm(cr.day) == f"day{day_index}"]
+    day_rows = [cr for cr in smap.criteria_rows if cr.day_index == day_index or _norm(cr.day) == f"day{day_index}"]
     if not day_rows:
         raise ValueError(f"Day {day_index} not found in sheet")
 
-    topics_in_order = []
-    for cr in day_rows:
-        if cr.topic not in topics_in_order:
-            topics_in_order.append(cr.topic)
+    # Filter by topic_index within that day
+    topic_rows = [cr for cr in day_rows if cr.topic_index == topic_index]
+    if not topic_rows:
+        topic_rows = day_rows
 
-    if topic_index > len(topics_in_order):
-        raise ValueError(f"Day {day_index} only has {len(topics_in_order)} topic blocks (requested topic #{topic_index})")
-
-    topic_name = topics_in_order[topic_index - 1]
     norm_crit = _norm(criteria_name)
 
     # 1. Exact normalized match
-    for cr in day_rows:
-        if cr.topic == topic_name and _norm(cr.criteria) == norm_crit:
+    for cr in topic_rows:
+        if _norm(cr.criteria) == norm_crit:
             return cr.row
 
     # 2. Substring match
-    for cr in day_rows:
-        if cr.topic == topic_name:
-            nc = _norm(cr.criteria)
-            if norm_crit in nc or nc in norm_crit:
-                return cr.row
+    for cr in topic_rows:
+        nc = _norm(cr.criteria)
+        if norm_crit in nc or nc in norm_crit:
+            return cr.row
 
     # 3. Keyword / Token overlap match
     crit_words = set(re.findall(r"\w+", criteria_name.lower().replace("contenet", "content").replace("impresion", "impression")))
     best_row = None
     best_overlap = 0
-    for cr in day_rows:
-        if cr.topic == topic_name:
-            row_words = set(re.findall(r"\w+", cr.criteria.lower().replace("contenet", "content").replace("impresion", "impression")))
-            overlap = len(crit_words & row_words)
-            if overlap > best_overlap and overlap >= 2:
-                best_overlap = overlap
-                best_row = cr.row
+    for cr in topic_rows:
+        row_words = set(re.findall(r"\w+", cr.criteria.lower().replace("contenet", "content").replace("impresion", "impression")))
+        overlap = len(crit_words & row_words)
+        if overlap > best_overlap and overlap >= 2:
+            best_overlap = overlap
+            best_row = cr.row
 
     if best_row is not None:
         return best_row
