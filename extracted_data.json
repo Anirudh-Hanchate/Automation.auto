@@ -1,0 +1,2602 @@
+[
+  {
+    "staff_no": "212845",
+    "name": "PRAVEEN KUMAR S",
+    "sbu_csg": "EWNS(HYD)",
+    "department": "QM",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-1)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) - Continuation\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)-Continuation\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) Continuation\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II) Chap 7C\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 8)\nMr Jagadeesh Kumar R (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Chapter 8 - (Risks & Knowledge Management)\nMrs Anupama M, Sr.DGM (BG/NS(S&CS))",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 11)\nMr S K Das (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "'Management Elements & Methods (Part-III-Chapter 9)\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 10,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Quiz on CMQ/OE\nMr Surendra Singh , DGM (QM/BAE)",
+            "criteria": {
+              "Relevance of the Quiz to the Topics": 9,
+              "Innovativeness in Presentation Method": 9,
+              "Quiz Master's Effectiveness": 9,
+              "Overall impression of the Quiz in Learning": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMrs Kavitha Vadipila, Sr.DGM (PDIC)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 12)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes (Course Material)": 9,
+      "Communication & Overall Coordination": 9,
+      "Classroom Facilities": 9,
+      "Relevance to your current job": 9
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "",
+    "suggestion_2": ""
+  },
+  {
+    "staff_no": "211110",
+    "name": "Madhusmita Saraswat",
+    "sbu_csg": "Software",
+    "department": "Assurance",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) - Continuation\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)-Continuation\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) Continuation\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 8,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II) Chap 7C\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 8)\nMr Jagadeesh Kumar R (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Chapter 8 - (Risks & Knowledge Management)\nMrs Anupama M, Sr.DGM (BG/NS(S&CS))",
+            "criteria": {
+              "Course Content": 8,
+              "Structure & Flow": 9,
+              "Time Management": 8,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 11)\nMr S K Das (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "'Management Elements & Methods (Part-III-Chapter 9)\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Quiz on CMQ/OE\nMr Surendra Singh , DGM (QM/BAE)",
+            "criteria": {
+              "Relevance of the Quiz to the Topics": 10,
+              "Innovativeness in Presentation Method": 10,
+              "Quiz Master's Effectiveness": 10,
+              "Overall impression of the Quiz in Learning": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMrs Kavitha Vadipila, Sr.DGM (PDIC)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 12)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 8,
+              "Structure & Flow": 8,
+              "Time Management": 8,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes (Course Material)": 9,
+      "Communication & Overall Coordination": 9,
+      "Classroom Facilities": 9,
+      "Relevance to your current job": 10
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "Six Sigma black belt",
+    "suggestion_2": "Put sample question at the end of each chapter completion ."
+  },
+  {
+    "staff_no": "212784",
+    "name": "Sharmender Kumar",
+    "sbu_csg": "Radar - Gad.",
+    "department": "QM",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I)- Continuation\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)-Continuation\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) Continuation\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II) Chap 7C\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 8)\nMr Jagadeesh Kumar R (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Chapter 8- (Risks & Knowledgement Management)\nMrs Anupama M, Sr.DGM (BG/NS(S&CS))",
+            "criteria": {
+              "Course Content": 8,
+              "Structure & Flow": 8,
+              "Time Management": 8,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 11)\nMr SK Das (External Faculty)",
+            "criteria": {
+              "Course Content": 8,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "'Management Elements & Methods (Part-III-Chapter 9)\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Quiz on CMQ/OE\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Relevance of the Quiz to the Topics": 9,
+              "Innovativeness in Presentation Method": 9,
+              "Quiz Master's Effectiveness": 9,
+              "Overall impresion of the Quiz in Learning": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMrs Kavitha Vadipila, Sr.DGM (PDIC)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 12}\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes (Course Material)": 9,
+      "Communication & Overall Coordination": 9,
+      "Classroom Facilities": 9,
+      "Relevance to your current job": 9
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "",
+    "suggestion_2": ""
+  },
+  {
+    "staff_no": "214358",
+    "name": "ASHISH",
+    "sbu_csg": "RADAR",
+    "department": "PMG - MWC",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) - Continuation",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)-Continuation",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) Continuation",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II) Chap 7C",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 8)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 8,
+              "Time Management": 8,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Chapter 8- (Risks & Knowledgement Management)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 8,
+              "Time Management": 6,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 11)",
+            "criteria": {
+              "Course Content": 8,
+              "Structure & Flow": 8,
+              "Time Management": 8,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "'Management Elements & Methods (Part-III-Chapter 9)",
+            "criteria": {
+              "Course Content": 8,
+              "Structure & Flow": 8,
+              "Time Management": 8,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          },
+          {
+            "topic_index": 4,
+            "topic_name": "Quiz on CMQ/OE",
+            "criteria": {
+              "Relevance of the Quiz to the Topics": 10,
+              "Innovativeness in Presentation Method": 8,
+              "Quiz Master's Effectiveness": 10,
+              "Overall impresion of the Quiz in Learning": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 8,
+              "Time Management": 8,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 8,
+              "Time Management": 8,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 12)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 8,
+              "Time Management": 8,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes (Course Material)": 9,
+      "Communication & Overall Coordination": 10,
+      "Classroom Facilities": 10,
+      "Relevance to your current job": 9
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "",
+    "suggestion_2": ""
+  },
+  {
+    "staff_no": "213762",
+    "name": "RISHI RAJ KASSI",
+    "sbu_csg": "GAD - CENTRAL",
+    "department": "IQA",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-1)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-1)-Continuation\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)-Continuation\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-1) Continuation\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II) Chap 7C\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 8)\nMr Jagadeesh Kumar R (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Chapter 8 - (Risks & Knowledgement Management)\nMrs Anupama M, Sr.DGM (BG/NS(S&CS))",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 11)\nMr S K Das (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 9)\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 4,
+            "topic_name": "Quiz on CMQ/OE\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Relevance of the Quiz to the Topics": 9,
+              "Innovativeness in Presentation Method": 9,
+              "Quiz Master's Effectiveness": 9,
+              "Overall impression of the Quiz in Learning": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 10)\nMrs Kavitha Vadipila, Sr.DGM (PDIC)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 12)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes (Course Material)": 9,
+      "Communication & Overall Coordination": 9,
+      "Classroom Facilities": 9,
+      "Relevance to your current job": 9
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "",
+    "suggestion_2": ""
+  },
+  {
+    "staff_no": "213962",
+    "name": "VADIRAJ R PATIL",
+    "sbu_csg": "MIL COM",
+    "department": "TESTING",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) - Continuation\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)-Continuation\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) Continuation\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II) Chap 7C\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 8)\nMr Jagadeesh Kumar R (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Chapter 8 - (Risks & Knowledgement Management)\nMrs Anupama M, Sr.DGM (BG/NS(S&CS))",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 11)\nMr S K Das (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 9)\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Quiz on CMQ/QE\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Relevance of the Quiz to the Topics": 9,
+              "Innovativeness in Presentation Method": 9,
+              "Quiz Master's Effectiveness": 9,
+              "Overall impression of the Quiz in Learning": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMrs Kavitha Vadipila, Sr.DGM (PDIC)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 12)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes (Course Material)": 9,
+      "Communication & Overall Coordination": 10,
+      "Classroom Facilities": 9,
+      "Relevance to your current job": 9
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "QC TOOLS and Application",
+    "suggestion_2": "Same example videos of Best practice in BEL & other Indian company"
+  },
+  {
+    "staff_no": "213328",
+    "name": "Y SREENIVASA REDDY",
+    "sbu_csg": "HYD/EWNS",
+    "department": "PURCHASE",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) - Continuation\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)-Continuation\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) Continuation\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II) Chap 7C\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 8)\nMr Jagadeesh Kumar R (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Chapter 8 - (Risks & Knowledgeement Management)\nMrs Anupama M, Sr.DGM (BG/NS(S&CS))",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 11)\nMr S K Das (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 9)\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Quiz on CMQ/OE\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Relevance of the Quiz to the Topics": 9,
+              "Innovativeness in Presentation Method": 9,
+              "Quiz Master's Effectiveness": 9,
+              "Overall impression of the Quiz in Learning": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 10)\nMrs Kavitha Vadipila, Sr.DGM (PDIC)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 12)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes (Course Material)": 9,
+      "Communication & Overall Coordination": 9,
+      "Classroom Facilities": 9,
+      "Relevance to your current job": 9
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "",
+    "suggestion_2": ""
+  },
+  {
+    "staff_no": "213949",
+    "name": "SHARATH M N",
+    "sbu_csg": "COMPS",
+    "department": "QM",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) - Continuation\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)-Continuation\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) Continuation\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II) Chap 7C\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 8)\nMr Jagadeesh Kumar R (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Chapter 8 - (Risks & Knowledge Management)\nMrs Anupama M, Sr.DGM (BG/NS(S&CS))",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 11)\nMr S K Das (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 9)\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 4,
+            "topic_name": "Quiz on CMQ/OE\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Relevance of the Quiz to the Topics": 9,
+              "Innovativeness in Presentation Method": 9,
+              "Quiz Master's Effectiveness": 10,
+              "Overall impresion of the Quiz in Learning": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMrs Kavitha Vadipila, Sr.DGM (PDIC)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 12)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes (Course Material)": 9,
+      "Communication & Overall Coordination": 9,
+      "Classroom Facilities": 9,
+      "Relevance to your current job": 9
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "",
+    "suggestion_2": "NIL"
+  },
+  {
+    "staff_no": "213526",
+    "name": "SUNIL KUMAR SP",
+    "sbu_csg": "C-QA",
+    "department": "Emg",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) - Continuation\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)-Continuation\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) Continuation\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II) Chap 7C\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 8)\nMr Jagadeesh Kumar R (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Chapter 8 - (Risks & KNOWLEDGEMENT Management)\nMrs Anupama M, Sr.DGM (BG/NS(S&CS))",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 11)\nMr S K Das (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 9)\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Quiz on CMQ/OE\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Relevance of the Quiz to the Topics": 10,
+              "Innovativeness in Presentation Method": 10,
+              "Quiz Master's Effectiveness": 10,
+              "Overall impression of the Quiz in Learning": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMrs Kavitha Vadipila, Sr.DGM (PDIC)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 12)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes (Course Material)": 10,
+      "Communication & Overall Coordination": 10,
+      "Classroom Facilities": 10,
+      "Relevance to your current job": 10
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "",
+    "suggestion_2": ""
+  },
+  {
+    "staff_no": "213570",
+    "name": "K. JAGGA RAO",
+    "sbu_csg": "Machilipatnam",
+    "department": "PA",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 7,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) - Continuation\nMr Surendra Singh , DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)-Continuation\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) Continuation\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II) Chap 7C\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 8)\nMr Jagadeesh Kumar R (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Chapter 8- (Risks & Knowledgement Management)\nMrs Anupama M, Sr.DGM (BG/NS(S&CS))",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 11)\nMr S K Das (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 9)\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Quiz on CMQ/OE\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Relevance of the Quiz to the Topics": 10,
+              "Innovativeness in Presentation Method": 10,
+              "Quiz Master's Effectiveness": 10,
+              "Overall impresion of the Quiz in Learning": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMrs Kavitha Vadipila, Sr.DGM (PDIC)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 12)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes (Course Material)": 10,
+      "Communication & Overall Coordination": 10,
+      "Classroom Facilities": 10,
+      "Relevance to your current job": 9
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "",
+    "suggestion_2": ""
+  },
+  {
+    "staff_no": "E 211/25",
+    "name": "Asun Kumar",
+    "sbu_csg": "PKL",
+    "department": "Jammu",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) - Continuation\nMr Surendra Singh , DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)-Continuation\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) Continuation\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II) Chap 7C\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 8)\nMr Jagadeesh Kumar R (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Chapter 8 - (Risks & Knowledgement Management)\nMrs Anupama M, Sr.DGM (BG/NS(S&CS))",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 11)\nMr S K Das (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 9)\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 4,
+            "topic_name": "Quiz on CMQ/OE\nMr Surendra Singh , DGM (QM/BAE)",
+            "criteria": {
+              "Relevance of the Quiz to the Topics": 9,
+              "Innovativeness in Presentation Method": 9,
+              "Quiz Master's Effectiveness": 9,
+              "Overall impression of the Quiz in Learning": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMrs Kavitha Vadipila, Sr.DGM (PDIC)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 12)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes (Course Material)": 9,
+      "Communication & Overall Coordination": 9,
+      "Classroom Facilities": 9,
+      "Relevance to your current job": 9
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "continue C&E, PMP, CRE, CMQ and other",
+    "suggestion_2": ""
+  },
+  {
+    "staff_no": "E213580",
+    "name": "K. JAGGA RAO",
+    "sbu_csg": "Machilipatnam",
+    "department": "QA",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 7,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) - Continuation\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)-Continuation\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) Continuation\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II) Chap 7C\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 8)\nMr Jagadeesh Kumar R (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Chapter 8 - (Risks & Knowledgement Management)\nMrs Anupama M, Sr.DGM (BG/NS(S&CS))",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 11)\nMr S K Das (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "'Management Elements & Methods (Part-III-Chapter 9)\nDr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 4,
+            "topic_name": "Quiz on CMQ/OE\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Relevance of the Quiz to the Topics": 10,
+              "Innovativeness in Presentation Method": 10,
+              "Quiz Master's Effectiveness": 10,
+              "Overall impresion of the Quiz in Learning": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10)\nMrs Kavitha Vadipila, Sr.DGM (PDIC)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 12)\nMr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes (Course Material)": 10,
+      "Communication & Overall Coordination": 10,
+      "Classroom Facilities": 10,
+      "Relevance to your current job": 10
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "",
+    "suggestion_2": ""
+  },
+  {
+    "staff_no": "210791",
+    "name": "Anchal Dave",
+    "sbu_csg": "Avionics / CAD",
+    "department": "Testing",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) Mr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II) Mr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) - Continuation Mr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II)-Continuation Mr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Leadership (Part-I) Continuation Dr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Strategic Plan Development & Deployment (Part-II) Chap 7C Mr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 8) Mr Jagadeesh Kumar R (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Chapter 8- (Risks & Knowlegedmanagement) Mrs Anupama M, Sr. DGM (BG/NS(S&CS))",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 11) Mr S K Das (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 9) Dr B Kishore (External Faculty)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Quiz on CMQ/OE Mr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Relevance of the Quiz to the Topics": 10,
+              "Innovativeness in Presentation Method": 10,
+              "Quiz Master's Effectiveness": 10,
+              "Overall impresion of the Quiz in Learning": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10) Mr Umesh Ghimirey, Sr.DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Management Elements & Methods (Part-III- Chapter 10) Mrs Kavitha Vadipila, Sr.DGM (PDIC)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 3,
+            "topic_name": "Management Elements & Methods (Part-III-Chapter 12) Mr Surendra Singh, DGM (QM/BAE)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes (Course Material)": 10,
+      "Communication & Overall Coordination": 9,
+      "Classroom Facilities": 10,
+      "Relevance to your current job": 10
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "",
+    "suggestion_2": ""
+  }
+]

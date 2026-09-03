@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Feedback Form to Excel Automation</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-badge">
+        <span class="pulse-dot"></span>
+        AI Vision & Excel Automation
+      </div>
+      <h1>Feedback Form <span class="gradient-text">Auto-Filler</span></h1>
+      <p class="header-subtitle">
+        Upload scanned handwritten feedback PDF forms & transform them into fully populated, formula-ready Excel workbooks automatically.
+      </p>
+    </header>
+
+    <!-- Main Card -->
+    <main class="main-card">
+      <form id="automationForm">
+        <!-- Step 1: Upload Section -->
+        <section class="section-block">
+          <div class="section-header">
+            <span class="step-num">1</span>
+            <div>
+              <h2>Upload Documents</h2>
+              <p class="section-desc">Select your scanned PDF forms and the target Excel template.</p>
+            </div>
+          </div>
+
+          <div class="upload-grid">
+            <!-- PDF Upload Box -->
+            <div class="upload-box" id="pdfDropZone">
+              <input type="file" id="pdfInput" accept=".pdf" class="file-input-hidden">
+              <div class="upload-icon">
+                <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                  <polyline points="14 2 14 8 20 8"></polyline>
+                  <line x1="16" y1="13" x2="8" y2="13"></line>
+                  <line x1="16" y1="17" x2="8" y2="17"></line>
+                  <polyline points="10 9 9 9 8 9"></polyline>
+                </svg>
+              </div>
+              <div class="upload-content">
+                <span class="upload-title">Scanned Feedback PDF</span>
+                <span class="upload-hint" id="pdfFileLabel">Drag & drop <code>CRE_Feedback.pdf</code> or browse</span>
+                <span class="file-badge" id="pdfBadge" style="display: none;"></span>
+              </div>
+            </div>
+
+            <!-- Excel Template Upload Box -->
+            <div class="upload-box" id="templateDropZone">
+              <input type="file" id="templateInput" accept=".xlsx,.xls" class="file-input-hidden">
+              <div class="upload-icon xlsx-icon">
+                <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                  <polyline points="14 2 14 8 20 8"></polyline>
+                  <path d="M8 13h8"></path>
+                  <path d="M8 17h8"></path>
+                  <path d="M10 9H8"></path>
+                </svg>
+              </div>
+              <div class="upload-content">
+                <span class="upload-title">Excel Template</span>
+                <span class="upload-hint" id="templateFileLabel">Default: <strong>blank_template.xlsx</strong></span>
+                <span class="file-badge active-badge" id="templateBadge">Using Default Template</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Step 2: Mode & Engine Selection -->
+        <section class="section-block">
+          <div class="section-header">
+            <span class="step-num">2</span>
+            <div>
+              <h2>Execution Mode & AI Vision Engine</h2>
+              <p class="section-desc">Choose how feedback marks and handwritten text are transcribed.</p>
+            </div>
+          </div>
+
+          <div class="engine-cards">
+            <!-- Mode 1: Instant Demo -->
+            <label class="engine-card active" data-mode="demo">
+              <input type="radio" name="mode" value="demo" checked>
+              <div class="engine-card-header">
+                <span class="engine-icon">⚡</span>
+                <span class="engine-tag free-tag">Instant (1s)</span>
+              </div>
+              <div class="engine-title">Pre-Extracted / Demo Data</div>
+              <p class="engine-desc">Fills the template instantly using verified dataset (19 participants, 950 scores). No API key needed.</p>
+            </label>
+
+            <!-- Mode 2: Gemini -->
+            <label class="engine-card" data-mode="gemini">
+              <input type="radio" name="mode" value="gemini">
+              <div class="engine-card-header">
+                <span class="engine-icon">✨</span>
+                <span class="engine-tag ai-tag">Google Gemini</span>
+              </div>
+              <div class="engine-title">Gemini Vision AI</div>
+              <p class="engine-desc">Extracts directly from scanned PDF pages using Gemini 2.5 Flash / 3.7 Flash multimodal vision.</p>
+            </label>
+
+            <!-- Mode 3: Claude -->
+            <label class="engine-card" data-mode="claude">
+              <input type="radio" name="mode" value="claude">
+              <div class="engine-card-header">
+                <span class="engine-icon">🧠</span>
+                <span class="engine-tag ai-tag">Anthropic Claude</span>
+              </div>
+              <div class="engine-title">Claude Vision AI</div>
+              <p class="engine-desc">Extracts directly from scanned PDF pages using Claude 3.7 Sonnet multimodal vision.</p>
+            </label>
+          </div>
+
+          <!-- API Key & AI Settings (Visible when Gemini or Claude is selected) -->
+          <div id="aiSettingsPanel" class="ai-settings-panel" style="display: none;">
+            <div class="form-group">
+              <label for="apiKeyInput" id="apiKeyLabel">Gemini API Key</label>
+              <div class="input-with-hint">
+                <input type="password" id="apiKeyInput" placeholder="Enter API Key or leave blank if set in environment (.env)">
+                <button type="button" class="btn-ghost" id="toggleApiKeyVisibility">👁️</button>
+              </div>
+              <span class="field-hint" id="apiKeyHint">
+                Get a free key from <a href="https://aistudio.google.com" target="_blank" rel="noopener">Google AI Studio</a>.
+              </span>
+            </div>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label for="modelSelect">Vision Model</label>
+                <select id="modelSelect">
+                  <option value="gemini-3.6-flash" selected>gemini-3.6-flash (Recommended, High Quota & Vision)</option>
+                  <option value="gemini-3.5-flash-lite">gemini-3.5-flash-lite (Ultra-Fast)</option>
+                  <option value="gemini-3.7-flash">gemini-3.7-flash (Latest Flash Model)</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="pagesPerParticipant">Pages Per Participant</label>
+                <input type="number" id="pagesPerParticipant" value="2" min="1" max="10">
+              </div>
+            </div>
+          </div>
+
+          <!-- Sheet Settings -->
+          <div class="settings-row">
+            <div class="form-group">
+              <label for="sheetSelect">Target Feedback Sheet</label>
+              <select id="sheetSelect">
+                <option value="Mod-1 Participant's Feedback">Mod-1 Participant's Feedback</option>
+                <option value="Mod-2 Participant's Feedback">Mod-2 Participant's Feedback</option>
+              </select>
+            </div>
+            <div class="form-group checkbox-group">
+              <label class="checkbox-label">
+                <input type="checkbox" id="overwriteCheck" checked>
+                <span>Allow overwriting non-empty cells</span>
+              </label>
+            </div>
+          </div>
+        </section>
+
+        <!-- Submit Button -->
+        <div class="action-footer">
+          <button type="submit" id="submitBtn" class="btn-primary">
+            <span class="btn-icon">⚡</span>
+            <span id="btnText">Start Automation & Fill Excel</span>
+          </button>
+        </div>
+      </form>
+
+      <!-- Processing State -->
+      <div id="processingCard" class="processing-card" style="display: none;">
+        <div class="spinner-container">
+          <div class="spinner"></div>
+        </div>
+        <h3 id="progressTitle">Processing Feedback Forms...</h3>
+        <p id="progressSubtitle">Parsing participant marks, aligning criteria, and populating Excel workbook.</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar-fill" id="progressBarFill"></div>
+        </div>
+        <div class="terminal-log" id="terminalLog">
+          <div class="log-line info">> Initializing automation pipeline...</div>
+        </div>
+      </div>
+
+      <!-- Results Card -->
+      <div id="resultsCard" class="results-card" style="display: none;">
+        <div class="success-banner">
+          <div class="success-icon">✓</div>
+          <div>
+            <h3>Automation Completed Successfully!</h3>
+            <p>All feedback forms transcribed, mapped, and filled into the Excel workbook.</p>
+          </div>
+        </div>
+
+        <!-- Download Action -->
+        <div class="download-container">
+          <a id="downloadBtn" href="#" class="btn-download" download>
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+              <polyline points="7 10 12 15 17 10"></polyline>
+              <line x1="12" y1="15" x2="12" y2="3"></line>
+            </svg>
+            <span>Download Filled Workbook (.xlsx)</span>
+          </a>
+          <button type="button" id="resetBtn" class="btn-secondary">Process Another Batch</button>
+        </div>
+
+        <!-- KPI Metrics Grid -->
+        <div class="metrics-grid">
+          <div class="metric-card">
+            <span class="metric-label">Participants</span>
+            <span class="metric-value" id="kpiParticipants">19</span>
+            <span class="metric-sub">Forms Processed</span>
+          </div>
+          <div class="metric-card">
+            <span class="metric-label">Score Cells</span>
+            <span class="metric-value" id="kpiScores">950</span>
+            <span class="metric-sub">1-10 Ratings Mapped</span>
+          </div>
+          <div class="metric-card">
+            <span class="metric-label">Suggestions</span>
+            <span class="metric-value" id="kpiSuggestions">20</span>
+            <span class="metric-sub">Open-Ended Responses</span>
+          </div>
+          <div class="metric-card highlight">
+            <span class="metric-label">Total Cells</span>
+            <span class="metric-value" id="kpiTotalCells">970</span>
+            <span class="metric-sub">100% Automated</span>
+          </div>
+        </div>
+
+        <!-- Table Preview -->
+        <div class="table-section">
+          <div class="table-header">
+            <h4>Populated Participants Summary</h4>
+            <input type="text" id="tableSearch" placeholder="Search by Staff No or Name..." class="table-search-input">
+          </div>
+          <div class="table-responsive">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Staff No</th>
+                  <th>Participant Name</th>
+                  <th>Scores Filled</th>
+                  <th>Suggestions</th>
+                  <th>Suggestion 2 (Sample)</th>
+                </tr>
+              </thead>
+              <tbody id="participantTableBody">
+                <!-- Rows injected dynamically via JS -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="app-footer">
+      <p>BAE Academy Feedback Automation &bull; Deterministic Cell Mapping &bull; Excel Formula Engine</p>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

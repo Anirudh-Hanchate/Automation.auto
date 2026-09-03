@@ -1,0 +1,2510 @@
+[
+  {
+    "staff_no": "218399",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 8,
+              "Time Management": 8,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 8,
+              "Time Management": 7,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 8,
+              "Time Management": 7,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 8,
+              "Time Management": 8,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 8,
+              "Time Management": 6,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 7,
+              "Time Management": 8,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": "None",
+    "suggestion_2": "Some topics were rushed became of time shortage"
+  },
+  {
+    "staff_no": "216377",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 3,
+              "Time Management": 3,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 3
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 7,
+              "Structure & Flow": 6,
+              "Time Management": 9,
+              "Faculty Delivery": 5,
+              "Faculty Participants Interaction": 6
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 7,
+              "Structure & Flow": 7,
+              "Time Management": 9,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 7
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 7,
+              "Structure & Flow": 6,
+              "Time Management": 9,
+              "Faculty Delivery": 5,
+              "Faculty Participants Interaction": 6
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 7,
+              "Structure & Flow": 6,
+              "Time Management": 9,
+              "Faculty Delivery": 5,
+              "Faculty Participants Interaction": 6
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": "thh",
+    "suggestion_2": "Instead of focusing completely on ASQ CRE Exam, training should also focus on how participants can learn real world examples and should be able to apply them in work are.\nTraining is designed more like a student coaching center than for a working professional"
+  },
+  {
+    "staff_no": "502099-K",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 8,
+              "Time Management": 8,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": null,
+    "suggestion_2": null
+  },
+  {
+    "staff_no": "217755",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": null,
+    "suggestion_2": null
+  },
+  {
+    "staff_no": "216676",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 8,
+              "Time Management": 8,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 8,
+              "Time Management": 8,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 7
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 8,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": "Similar to Global Exam",
+    "suggestion_2": "Please provide ASQ CRE 4th edition softcopy"
+  },
+  {
+    "staff_no": "506104N",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": null,
+    "suggestion_2": null
+  },
+  {
+    "staff_no": "216322",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": null,
+    "suggestion_2": "Try to increase the duration of Course.\nArrange the course online, so that person from remote units will attend it in more numbers"
+  },
+  {
+    "staff_no": "216168",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 7,
+              "Time Management": 10,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 7,
+              "Time Management": 10,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 7,
+              "Structure & Flow": 8,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 7,
+              "Structure & Flow": 8,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 8,
+              "Time Management": 9,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 7,
+              "Time Management": 8,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 7,
+              "Time Management": 8,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 7
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 7,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 7,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 8,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": null,
+    "suggestion_2": null
+  },
+  {
+    "staff_no": "214004",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 8,
+              "Time Management": 10,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 6,
+              "Structure & Flow": 8,
+              "Time Management": 10,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 7
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 6,
+              "Structure & Flow": 7,
+              "Time Management": 10,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 8
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 6,
+              "Structure & Flow": 7,
+              "Time Management": 10,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 7
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 7,
+              "Structure & Flow": 7,
+              "Time Management": 10,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 8
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 6,
+              "Structure & Flow": 6,
+              "Time Management": 10,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 7
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 6,
+              "Structure & Flow": 6,
+              "Time Management": 10,
+              "Faculty Delivery": 6,
+              "Faculty Participants Interaction": 6
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 6,
+              "Structure & Flow": 7,
+              "Time Management": 10,
+              "Faculty Delivery": 6,
+              "Faculty Participants Interaction": 7
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 6,
+              "Structure & Flow": 7,
+              "Time Management": 10,
+              "Faculty Delivery": 6,
+              "Faculty Participants Interaction": 7
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 5,
+              "Structure & Flow": 6,
+              "Time Management": 10,
+              "Faculty Delivery": 6,
+              "Faculty Participants Interaction": 6
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": null,
+    "suggestion_2": "Understanding the concept & application orientation is preferrable compared to exam orientation"
+  },
+  {
+    "staff_no": "218036",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": null,
+    "suggestion_2": "More practical examples can be included to get more better understanding of topics covered"
+  },
+  {
+    "staff_no": "217847",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 10,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 8,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": "Include practical examples of BEL in terms of calculation of Reliability, Quality to know the entire process depth",
+    "suggestion_2": "Should include more & more practical example with respect to BEL along with the flow of topics"
+  },
+  {
+    "staff_no": "218033",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 7,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": null,
+    "suggestion_2": "Focus should be given more on the subject & how subject is useful for our jopb than focussing only a exam point of view"
+  },
+  {
+    "staff_no": "216448",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 8,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": null,
+    "suggestion_2": "Risk management tpoic was not up to my expectations more time & more interactions session would have benefitfed"
+  },
+  {
+    "staff_no": "216442",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": null,
+    "suggestion_2": "overall program was very good"
+  },
+  {
+    "staff_no": "217689",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": "CQE, Data Analyst",
+    "suggestion_2": "Latest edition handbook"
+  },
+  {
+    "staff_no": "216449",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 10,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": null,
+    "suggestion_2": null
+  },
+  {
+    "staff_no": "216452",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 7,
+              "Structure & Flow": 6,
+              "Time Management": 8,
+              "Faculty Delivery": 6,
+              "Faculty Participants Interaction": 6
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 8,
+              "Time Management": 9,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 7,
+              "Structure & Flow": 6,
+              "Time Management": 6,
+              "Faculty Delivery": 6,
+              "Faculty Participants Interaction": 6
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 8,
+              "Time Management": 8,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 8,
+              "Structure & Flow": 7,
+              "Time Management": 7,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 7
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": "Add some training related to technical quality like welding quality and practical training ",
+    "suggestion_2": null
+  },
+  {
+    "staff_no": "217770",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 8,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 8,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 8,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": "FMEA, RCA, DoE etc.",
+    "suggestion_2": "CRE tables compilation to be finetuned with relevant formulas & rearranged as per topics, Assign more duration for confidence, materials, distributions, Hypothesis and Risk Management"
+  },
+  {
+    "staff_no": "218114",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "criteria": {
+              "Course Contenet": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "suggestion_1": "CQE",
+    "suggestion_2": null
+  }
+]

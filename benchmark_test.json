@@ -1,0 +1,608 @@
+[
+  {
+    "staff_no": "216442",
+    "name": "TARLOK SINGH",
+    "sbu_csg": "ANTENNA/GAD",
+    "department": "DBE-A",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Reliability Fundamentals (Leadership Foundations)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Risk Management",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Reliability Fundamentals (Reliability Foundations)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Probability & Statistics for Reliability (Basic Concepts)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Reliability Fundamentals (Reliability Foundations)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Probability & Statistics for Reliability (Probability Distributions & Functions)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Probability & Statistics for Reliability (Sampling Plans, SPC, Cp, Cpk)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Probability & Statistics for Reliability (Confidence & Tolerance Intervals, Test of Hypothesis, ANOVA)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Probability & Statistics for Reliability (Confidence & Tolerance Intervals, Test of Hypothesis, ANOVA)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Data Management",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes (Course Material)": 10,
+      "Classroom Facilities": 10,
+      "Relevance & to your current job": 10
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "",
+    "suggestion_2": "Overall program was very good."
+  },
+  {
+    "staff_no": "217684",
+    "name": "Shamsundar",
+    "sbu_csg": "HCS",
+    "department": "D&E",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Reliability Fundamentals (Leadership Foundations)\n(Mr. Umesh Ghimirey, Sr.DGM (QM/BAE))",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Risk Management\n(Mr Jagadeesh K R, External Faculty)",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Reliability Fundamentals (Reliability Foundations)\n(Mr. Umesh Ghimirey, Sr.DGM (QM/BAE))",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Probability & Statistics for Reliability (Basic Concepts)\n(Mr. Narendra S, MGR (BG/PDIC))",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Reliability Fundamentals (Reliability Foundations)\n(Mr. Umesh Ghimirey, Sr.DGM (QM/BAE))",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Probability & Statistics for Reliability (Probability Distributions & Functions)\n(Mr. Surendra Singh, DGM (QM/BAE))",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "'Probability & Statistics for Reliability (Sampling Plans, SPC, Cp, Cpk)\n(Mrs. Pidathala Jahnavi, DM (BG/MS))",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Probability & Statistics for Reliability (Confidence & Tolerance Intervals, Test of Hypothesis, ANOVA)\n(Mr. Surendra Singh, DGM (QM/BAE))",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Probability & Statistics for Reliability (Confidence & Tolerance Intervals, Test of Hypothesis, ANOVA)\n(Mr. Surendra Singh, DGM (QM/BAE))",
+            "criteria": {
+              "Course Content": 9,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Data Management\n(Mr. Narendra S, MGR (BG/PDIC))",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes(Course Material)": 8,
+      "Communication & Overall Coordination": 9,
+      "Classroom Facilities": 10,
+      "Relevance & toyour current job": 9
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "CQE, Data Analyst",
+    "suggestion_2": "Latest edition handbook"
+  },
+  {
+    "staff_no": "BCE218399",
+    "name": "Pawan C Pawar",
+    "sbu_csg": "ADSN",
+    "department": "PDG",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Reliability Fundamentals (Leadership Foundations)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 8,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Risk Management",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 8,
+              "Time Management": 7,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Reliability Fundamentals (Reliability Foundations)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 8,
+              "Time Management": 9,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 8
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Probability & Statistics for Reliability (Basic Concepts)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 8,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Reliability Fundamentals (Reliability Foundations)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 8,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Probability & Statistics for Reliability (Probability Distributions & Functions)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 8,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Probability & Statistics for Reliability (Sampling Plans, SPC, Cp, Cpk)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 8,
+              "Time Management": 9,
+              "Faculty Delivery": 9,
+              "Faculty Participants Interaction": 9
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Probability & Statistics for Reliability (Confidence & Tolerance Intervals, Test of Hypothesis, ANOVA)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 8,
+              "Time Management": 6,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 7
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Probability & Statistics for Reliability (Confidence & Tolerance Intervals, Test of Hypothesis, ANOVA)",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 8,
+              "Time Management": 8,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 8
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Data Management",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 9,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 8
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes/(Course Material)": 10,
+      "Classroom Facilities": 10,
+      "Relevance & toyour current job": 9
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "None -",
+    "suggestion_2": "Some topics were rushed because of time shortage."
+  },
+  {
+    "staff_no": "E216377",
+    "name": "T.Vimod kumar.",
+    "sbu_csg": "M C",
+    "department": "D & E .",
+    "days": [
+      {
+        "day": 1,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Reliability Fundamentals (Leadership Foundations)\n(Mr. Umesh Ghimirey, Sr.DGM (QM/BAE))",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Risk Management\n(Mr Jagadeesh K R, External Faculty)",
+            "criteria": {
+              "Course Content": 3,
+              "Structure & Flow": 3,
+              "Time Management": 3,
+              "Faculty Delivery": 7,
+              "Faculty Participants Interaction": 3
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Reliability Fundamentals (Reliability Foundations)\n(Mr. Umesh Ghimirey, Sr.DGM (QM/BAE))",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Probability & Statistics for Reliability (Basic Concepts)\n(Mr. Narendra S, MGR (BG/PDIC))",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Reliability Fundamentals (Reliability Foundations)\n(Mr. Umesh Ghimirey, Sr.DGM (QM/BAE))",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 10,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 10
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Probability & Statistics for Reliability (Probability Distributions & Functions)\n(Mr. Surendra Singh, DGM (QM/BAE))",
+            "criteria": {
+              "Course Content": 7,
+              "Structure & Flow": 6,
+              "Time Management": 9,
+              "Faculty Delivery": 5,
+              "Faculty Participants Interaction": 6
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "'Probability & Statistics for Reliability (Sampling Plans, SPC, Cp, Cpk)\n(Mrs. Pidathala Jahnavi, DM (BG/MS))",
+            "criteria": {
+              "Course Content": 7,
+              "Structure & Flow": 6,
+              "Time Management": 7,
+              "Faculty Delivery": 6,
+              "Faculty Participants Interaction": 6
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Probability & Statistics for Reliability (Confidence & Tolerance Intervals, Test of Hypothesis, ANOVA)\n(Mr. Surendra Singh, DGM (QM/BAE))",
+            "criteria": {
+              "Course Content": 6,
+              "Structure & Flow": 6,
+              "Time Management": 9,
+              "Faculty Delivery": 6,
+              "Faculty Participants Interaction": 6
+            }
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "topics": [
+          {
+            "topic_index": 1,
+            "topic_name": "Probability & Statistics for Reliability (Confidence & Tolerance Intervals, Test of Hypothesis, ANOVA)\n(Mr. Surendra Singh, DGM (QM/BAE))",
+            "criteria": {
+              "Course Content": 6,
+              "Structure & Flow": 6,
+              "Time Management": 6,
+              "Faculty Delivery": 5,
+              "Faculty Participants Interaction": 6
+            }
+          },
+          {
+            "topic_index": 2,
+            "topic_name": "Data Management\n(Mr. Narendra S, MGR (BG/PDIC))",
+            "criteria": {
+              "Course Content": 10,
+              "Structure & Flow": 9,
+              "Time Management": 10,
+              "Faculty Delivery": 10,
+              "Faculty Participants Interaction": 9
+            }
+          }
+        ]
+      }
+    ],
+    "overall": {
+      "Delivery Notes(Course Material)": 7,
+      "Communication & Overall Coordination": 7,
+      "Classroom Facilities": 9,
+      "Relevance & toyour current job": 5
+    },
+    "recommend_continue": "Yes",
+    "suggestion_1": "",
+    "suggestion_2": "1. Instead of focusing completely on ASQ CRE Exam, training should also focus on how participants can learn real world examples and should be able to apply them in work area.\n2. Training is designed more like a student coaching center than for a working professional."
+  }
+]
